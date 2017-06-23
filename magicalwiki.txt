@@ -1,0 +1,25 @@
+{{User sandbox}}
+<!-- EDIT BELOW THIS LINE -->
+{{Infobox military conflict
+| conflict    = Bitwa o Urzędniczą
+| width       = 300px
+| partof      = Wojna o Urzędniczą
+| caption     = Koloryzowane zdjęcie zrobione za czasów pokoju
+| date        = 23.06.2017
+| place       = Urzędnicza 2/9
+| result      = Zmasowany atak jajkami i kamieniami zakończony sukcesem
+| status      = W toku
+| combatants_header = Uczestnicy bitwy
+| combatant1  = Teammagical
+| combatant2  = Łysy Stream
+| commander1  = Danielmagical
+| commander2  = Łysy Łoboda
+| units1      = Sonia<br />Baobab<br />Jaca-Praca<br />Gochabaal
+| units2      = Łoboda<br />Nieznany
+| strength1   = 1 okno<br />1 Sonia<br />1 śpiący Małysz
+| strength2   = Kilka kamieni
+| casualties1 = 1 Okno
+| casualties2 = Brak
+| notes       = 
+| campaignbox = 
+}}
