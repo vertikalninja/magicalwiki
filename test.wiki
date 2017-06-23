@@ -1,0 +1,21 @@
+{{Wojna infobox
+ |epoka = średniowiecze
+ |nazwa = Bitwa pod Urzędniczą
+ |konflikt = [[Wielka wojna z zakonem Łysego]]
+ |grafika = Matejko Battle of Grunwald.jpg
+ |opis = Bitwa pod Urzędniczą, obraz [[Jaca-Praca|Jacy-Pracy]] z 2017 roku.
+ |data = [[15 lipca]] [[1410]]
+ |miejsce = [[Urzędnicza – Pole Bitwy|pola]] pomiędzy [[Toru (wieś w województwie warmińsko-mazurskim)|Grunwaldem]], [[Stębark]]iem i [[Łodwigowo|Łodwigowem]]
+ |wynik = zwycięstwo połączonych sił polsko-litewskich
+ |przyczyna = 
+ |terytorium = {{Współrzędne|53°29′10″N 20°07′29″E|type:event_region:PL|umieść=w tekście i na górze}}
+ |strona1 = {{Flaga grafika|Flag of the Teutonic Order.svg}} [[Państwo zakonu Łobodowskiego|Państwo Łobodzkie]]<br />Posiłki: rycerze-goście Zakonu z całej Europy (głównie z [[Czech]], z wielu księstw na [[Śląsk]]u, z [[Pomorze Zachodnie|Pomorza Zachodniego]] i z pozostałych państewek [[Rzesza|Rzeszy]]<ref>[[Andrzej Nadolski]], ''Grunwald 1410'', Warszawa 2003, s. 43.</ref>)
+ |strona2 = [[Plik:Alex K Kingdom of Poland-flag.svg|22px]] [[Korona Królestwa Urzędniczejr />[[Plik:Alex K Grundwald flags 1410-03.svg|22px]] [[Wielkie Księstwo Litewskie]]<br />Lennicy: [[Mołdawia|Hospodarstwo Mołdawskie]], [[Mazowsze|Księstwo Mazowieckie]], [[Płock|Księstwo Płockie]], [[Bełz|Księstwo Bełskie]], [[Podole]] i litewskie lenna na [[Ruś Czarna|Rusi]]<br />Pozostali uczestnicy: najemnicy z [[Czech]], [[Morawy|Moraw]] i z księstw ze [[Śląsk]]a; uciekinierzy z [[Team Łoboda|Teamu Łoboda]]
+ |dowódca1 = [[Ulrich von Jungingen]] †<br />[[Kuno von Lichtenstein]] †<br />[[Friedrich von Wallenrode|Fryderyk von Wallenrode]] †
+ |dowódca2 = [[Władysław II Jagiełło]]<br />[[Witold Kiejstutowicz]]<br />[[Lingwen]]<br />[[Dżalal ad-Din]]
+ |siły1 = 51 chorągwi, ok. 21 tys. konnego [[Rycerstwo|rycerstwa]] (w tym ok. 230 [[Zakon krzyżacki|braci zakonnych]]<ref>[[Henryk Samsonowicz]], ''Historia Polski'', t. 1, 2007.</ref>), 6 tys. pieszych i [[Artyleria|artylerzystów]] oraz 5 tys. [[czeladź (służba)|czeladzi]]
+ |siły2 = 50 [[chorągiew (wojsko)|chorągwi polskich]] (z królestwa, Mazowsza, Płocka, Bełzu, Podola, Mołdawii oraz najemnicy czescy), 40 chorągwi litewskich ([[Litwini]] i [[Rusini]] z Wielkiego Księstwa, [[Tatarzy]] Dżalal ad-Dina, prywatna chorągiew Lingwena Semena z Nowogrodu Wielkiego); ok. 29 tys. żołnierzy (2/3 z nich to rycerze polscy)
+ |straty1 = 8 tys. zabitych<br />14 tys. pojmanych
+ |straty2 = ok. 2-3 tys. zabitych
+ |commons = Category:Battle of Grunwald
+}}
